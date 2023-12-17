@@ -1,0 +1,15 @@
+#dropArea, #dropArea2 {
+  border: 2px dashed #ccc;
+  padding: 5px;
+  text-align: center;
+  cursor: pointer;
+}
+
+#dropArea.dragover, #dropArea.dragover {
+  background-color: #ebebeb;
+}
+
+#previewImage, #previewImage {
+  width: 160px;
+  height: 150px;
+}
